@@ -68,7 +68,7 @@ It allows users to browse and filter property listings, view detailed informatio
 
 ---
 
-## 👥 Team Roles
+## 👥 Project Roles and Responsibilities
 
 | Role                | Responsibilities                                                                 |
 |---------------------|----------------------------------------------------------------------------------|
