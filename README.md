@@ -50,11 +50,13 @@ It allows users to browse and filter property listings, view detailed informatio
 ### 🎨 Figma Design Specifications
 
 #### Color Styles:
-- **Primary:** #FF5A5F  
-- **Secondary:** #008489  
-- **Background:** #FFFFFF  
-- **Text:** #222222  
-- **Secondary Text:** #717171
+| Name              | Hex Code   | Preview                                                             |
+|-------------------|------------|----------------------------------------------------------------------|
+| **Primary**       | `#FF5A5F`  | ![#FF5A5F](https://placehold.co/100x20/FF5A5F/FF5A5F.png)           |
+| **Secondary**     | `#008489`  | ![#008489](https://placehold.co/100x20/008489/008489.png)           |
+| **Background**    | `#FFFFFF`  | ![#FFFFFF](https://placehold.co/100x20/FFFFFF/FFFFFF.png)           |
+| **Text**          | `#222222`  | ![#222222](https://placehold.co/100x20/222222/222222.png)           |
+| **Secondary Text**| `#717171`  | ![#717171](https://placehold.co/100x20/717171/717171.png)           |
 
 #### Typography:
 - **Primary Font:** Circular  
