@@ -1,8 +1,8 @@
-# StayEase – Airbnb Clone Project
+<h1 align="center"><em>Airbnb Clone Project</em></h1>
 
 ## 📌 Project Overview
 
-StayEase is a full-stack accommodation booking web application inspired by Airbnb. Built as part of the **ALX Software Engineering Program** — combining both **ProDev Front-End** and **ProDev Back-End** tracks — this project simulates a real-world software development experience.
+StayEase/StayBackend is a full-stack accommodation booking web application inspired by Airbnb. Built as part of the **ALX Software Engineering Program** — combining both **ProDev Front-End** and **ProDev Back-End** tracks — this project simulates a real-world software development experience.
 
 It allows users to browse and filter property listings, view detailed information, and complete bookings with a clean and responsive UI. The focus is on scalable architecture, strong teamwork, and practical application of advanced front-end and back-end technologies.
 
@@ -26,6 +26,46 @@ It allows users to browse and filter property listings, view detailed informatio
 
 ---
 
+## 🧠 UI/UX Design Planning
+
+### 🎯 Design Goals
+- Create an intuitive and smooth booking flow  
+- Maintain visual consistency and brand feel  
+- Ensure fast load times and mobile-first responsiveness
+
+### 🔑 Key Features
+- Property search and filtering
+- Detailed property listings with image galleries
+- Booking with checkout confirmation
+- Secure user authentication
+
+### 📄 Primary Pages
+
+| Page                 | Description                                                           |
+|----------------------|------------------------------------------------------------------------|
+| **Property Listing** | Grid view with search filters and property previews                   |
+| **Property Details** | Full details of the property, images, host, and booking form          |
+| **Checkout Page**    | Secure and clean payment interface with confirmation                  |
+
+### 🎨 Figma Design Specifications
+
+#### Color Styles:
+- **Primary:** #FF5A5F  
+- **Secondary:** #008489  
+- **Background:** #FFFFFF  
+- **Text:** #222222  
+- **Secondary Text:** #717171
+
+#### Typography:
+- **Primary Font:** Circular  
+- **Headings:** Bold (700), 24–32px  
+- **Body:** Medium (500), 16px  
+- **Secondary Text:** Book (400), 14px
+
+> A user-friendly design improves satisfaction, reduces drop-off, and builds trust through clarity and responsiveness.
+
+---
+
 ## 👥 Team Roles
 
 | Role                | Responsibilities                                                                 |
@@ -38,6 +78,33 @@ It allows users to browse and filter property listings, view detailed informatio
 | **QA Tester**       | Writes test cases, identifies and reports bugs                                  |
 | **DevOps Engineer** | Sets up CI/CD, manages deployment and containerization                          |
 | **Product Owner**   | Defines feature priorities and aligns project with end-user needs               |
+| **Scrum Master**    | Facilitates agile processes and removes blockers                                |
+
+---
+
+## 🧱 UI Component Patterns
+
+### 📌 Planned Components:
+
+- **Navbar**
+  - Logo, Search Bar, User Navigation, Responsive Menu
+- **Property Card**
+  - Image, Price, Location, Ratings, Favorite Button
+- **Footer**
+  - Navigation Links, Company Info, Social Media, Copyright
+
+> All components will be modular and designed for reuse across the app with consistent styling.
+
+---
+
+## 💡 Best Practices
+
+- **Code Organization:** Maintain a modular, clean codebase structure  
+- **Version Control:** Use branches for each feature, with clear commit messages  
+- **Responsive Design:** Mobile-first strategy for layout and performance  
+- **Accessibility:** Follow WCAG guidelines for inclusive design  
+- **Documentation:** Keep README and comments updated  
+- **Testing:** Unit and integration testing for key components and flows  
 
 ---
 
@@ -87,13 +154,15 @@ It allows users to browse and filter property listings, view detailed informatio
 
 ## 🔁 CI/CD Pipeline
 
-**CI/CD (Continuous Integration/Continuous Deployment)** helps us automate testing and deployment processes for rapid, reliable delivery.
+**CI/CD (Continuous Integration/Continuous Deployment)** helps automate testing and deployment, enabling fast, safe releases.
 
 | Tool              | Purpose                                                                  |
 |-------------------|---------------------------------------------------------------------------|
-| **GitHub Actions**| Automate build, test, and deploy on each push                            |
-| **Docker**        | Containerize application for consistent development and deployment        |
-| **Vercel/Netlify**| Automate frontend deployments                                             |
-| **Heroku/Fly.io** | Backend and database hosting (optional)                                   |
+| **GitHub Actions**| Automate build, test, and deploy workflows                               |
+| **Docker**        | Package application in isolated environments for deployment              |
+| **Vercel/Netlify**| Host and deploy frontend with Git integration                            |
+| **Heroku/Fly.io** | Optional: Host backend and database (if separated)                        |
 
-> _Happy Coding! :)_
+---
+
+<p align="center"><em>Happy Coding! :)</em></p>
