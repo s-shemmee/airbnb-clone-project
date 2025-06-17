@@ -1,3 +1,29 @@
+<!--
+<div align="center">
+
+  <h6>Well hello there, fellow coder! If you're seeing this in the raw markdown,</h6>
+
+  <h6>you're either a curious dev... or an ALX student considering a *very* quick shortcut. ;)</h6>
+
+  <h6>Let's be clear:</h6>
+
+  <h6>This repo is like my unique fingerprint – crafted with blood, sweat, and way too many debugging sessions.</h6>
+
+  <h6>While I'm flattered you find it useful, originality is key in this program (and life!).</h6>
+
+  <h6>So, feel free to be inspired, learn, and adapt.</h6>
+
+  <h6>But if your repo suddenly looks *exactly* like mine,</h6>
+
+  <h6>my "ownership radar" (and the ALX team's) might just go off. Just sayin' :)</h6>
+
+  <h6>Save yourself the potential headache. Happy coding (and original thinking) <3! </h6>
+
+  <h6>- Shemmee Codes</h6>
+  
+</div>
+-->
+
 <h1 align="center"><em>Airbnb Clone Project</em></h1>
 
 ## 📌 Project Overview
@@ -89,11 +115,11 @@ It allows users to browse and filter property listings, view detailed informatio
 ### 📌 Planned Components:
 
 - **Navbar**
-  - Logo, Search Bar, User Navigation, Responsive Menu
+  - Logo, Search Bar, User Navigation, Responsive Menu
 - **Property Card**
-  - Image, Price, Location, Ratings, Favorite Button
+  - Image, Price, Location, Ratings, Favorite Button
 - **Footer**
-  - Navigation Links, Company Info, Social Media, Copyright
+  - Navigation Links, Company Info, Social Media, Copyright
 
 > All components will be modular and designed for reuse across the app with consistent styling.
 
